@@ -6,7 +6,7 @@
 
 Que você aprenda a criar a pasta/diretório pelo Git, criar arquivo em Markdown e empurrar o commit para o Repository no github pela primeira vez.
 
-Bônus: Para fazer alteração do arquivo ou em caso de conflito, seguir o passo a passo no final
+Bônus: Para fazer alteração do arquivo ou em caso de conflito, seguir o passo a passo no final.
 
 ### Está dividido em 3 partes:
 
@@ -77,7 +77,7 @@ Criar arquivo READ.ME para a "capa" do seu conteúdo no Repository.
 * Nomear o Repository.
 * Copiar o endereço http que foi gerado.
 * Iniciar o comando **git init** no Git.
-* Digitar o comando **git add * ** 
+* Digitar o comando **"git add *" ** 
 * Digitar **commit -m " commit inicial"** (entre as aspas você pode escolher o nome que quer dar ao commit).
 * Digitar o comando **git remote origin** e colar o endereço que foi gerado e que você copiou em New Repository.
 * Digitar o comando **git push origin master**.
@@ -89,7 +89,7 @@ Criar arquivo READ.ME para a "capa" do seu conteúdo no Repository.
 
 * Digitar o comando **git status** e identificar o conflito.
 
-* Digitar o comando **git add *** para adicionar todos os arquivos e alterações que foram realizadas.
+* Digitar o comando **"git add *"** para adicionar todos os arquivos e alterações que foram realizadas.
 
 * Digitar o comando **git commit -m "correção"** (entre as aspas você pode escolher o nome que quer dar ao commit).
 

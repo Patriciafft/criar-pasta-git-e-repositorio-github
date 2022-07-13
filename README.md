@@ -2,4 +2,4 @@
 
 ## Objetivo
 
-* Que você aprenda a criar a pasta/diretório pelo Git, criar arquivo em Markdown e empurrar esse commit para o Repository no github  pela primeira vez. 
+* Que você aprenda a criar a pasta/diretório pelo Git, criar arquivo em Markdown e empurrar esse commit para o Repository no Github  pela primeira vez. 
